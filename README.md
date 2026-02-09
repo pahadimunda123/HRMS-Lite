@@ -1,6 +1,17 @@
 # HRMS Lite
 
-A web-based HRMS Lite application for managing employee records and daily attendance. Designed as a simple, professional internal HR tool.
+## Submission Details
+
+| Item | Link / Description |
+|------|--------------------|
+| **Live Application URL** | _Add your deployed frontend URL here (e.g. Vercel/Netlify)_ |
+| **GitHub Repository** | https://github.com/pahadimunda123/HRMS-Lite |
+
+---
+
+## Project Overview
+
+A web-based HRMS Lite application for managing employee records and daily attendance. Designed as a simple, professional internal HR tool. Features include employee CRUD, attendance tracking with date and status (Present/Absent), pie charts for department distribution and attendance summary, RESTful APIs with validation, and a clean responsive UI.
 
 ## Features
 
@@ -20,14 +31,14 @@ A web-based HRMS Lite application for managing employee records and daily attend
 - Clean UI with loading, empty, and error states
 - Responsive, professional layout
 
-## Tech Stack
+## Tech Stack Used
 
-| Layer   | Technology          |
-|---------|---------------------|
-| Frontend| React 18, Vite      |
-| Backend | FastAPI (Python)    |
-| Database| SQLite / PostgreSQL |
-| Styling | CSS Modules         |
+| Layer   | Technology               |
+|---------|--------------------------|
+| Frontend| React 18, Vite, Chart.js |
+| Backend | FastAPI (Python)         |
+| Database| SQLite / PostgreSQL      |
+| Styling | CSS Modules             |
 
 ## Project Structure
 
@@ -46,7 +57,7 @@ hrms-lite/
 └── README.md
 ```
 
-## Run Locally
+## Steps to Run the Project Locally
 
 ### Prerequisites
 - Node.js 18+
@@ -113,7 +124,7 @@ Frontend runs at `http://localhost:5173` with API proxy to backend.
 3. Add environment variable: `VITE_API_URL=https://your-backend.onrender.com/api`
 4. Deploy
 
-## Assumptions & Limitations
+## Assumptions and Limitations
 
 - **Single admin user** – No authentication or roles
 - **Scope** – Leave management, payroll, and advanced HR features are out of scope
