@@ -4,7 +4,7 @@
 
 | Item | Link / Description |
 |------|--------------------|
-| **Live Application URL** |https://hrms-lite-dusky-one.vercel.app/ |
+| **Live Application URL** |(https://hrms-lite-dusky-one.vercel.app/) |
 | **GitHub Repository** | https://github.com/pahadimunda123/HRMS-Lite |
 
 ---
