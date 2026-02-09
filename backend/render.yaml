@@ -1,0 +1,5 @@
+# Render - create Web Service manually and add PostgreSQL from Render dashboard
+# Build: pip install -r requirements.txt
+# Start: uvicorn main:app --host 0.0.0.0 --port $PORT
+# Root: backend (or run from repo root and use cd backend in commands)
+# Add DATABASE_URL from Render PostgreSQL instance
