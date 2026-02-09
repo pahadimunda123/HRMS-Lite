@@ -4,7 +4,7 @@
 
 | Item | Link / Description |
 |------|--------------------|
-| **Live Application URL** | _Add your deployed frontend URL here (e.g. Vercel/Netlify)_ |
+| **Live Application URL** |(http://localhost:5173/attendance) |
 | **GitHub Repository** | https://github.com/pahadimunda123/HRMS-Lite |
 
 ---
